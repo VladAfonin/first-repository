@@ -1,0 +1,70 @@
+
+/* Large Devices, Wide Screens */
+@media only screen and (max-width : 1200px) {
+
+
+}
+
+/* Medium Devices, Desktops */
+@media only screen and (max-width : 992px) {
+	
+.catalog-item img{
+	padding: 20px 5px;
+	float: left;
+}
+.catalog-item p{
+	margin-top: 40px;
+}
+.catalog-item h3,
+.catalog-item .basket{
+	margin-top: 130px;
+}
+.catalog-item .basket{
+	margin-top: 120px;
+}
+.footer-feature img {
+
+    margin-bottom: 25px;
+}
+.section-descr p {
+	margin-bottom: 30px; 
+   }
+} 
+
+/* Extra Small Devices, Phones */
+@media only screen and (max-width : 480px) {
+
+}
+
+/* Custom, iPhone Retina */
+@media only screen and (max-width : 320px) {
+
+}
+
+
+/*==========  Mobile First Method  ==========*/
+
+/* Custom, iPhone Retina */
+@media only screen and (min-width : 320px) {
+
+}
+
+/* Extra Small Devices, Phones */
+@media only screen and (min-width : 480px) {
+
+}
+
+/* Small Devices, Tablets */
+@media only screen and (min-width : 768px) {
+
+}
+
+/* Medium Devices, Desktops */
+@media only screen and (min-width : 992px) {
+    
+}
+
+ /* Large Devices, Wide Screens */
+@media only screen and (min-width : 1200px) {
+
+}
